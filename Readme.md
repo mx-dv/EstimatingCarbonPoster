@@ -1,6 +1,6 @@
 Thank you for visiting our download repository!
 
-The pdf of our poster can be viewed and downloaded [using this link](EstimatingCarbonPoster.pdf)
+The pdf of our poster can be viewed and downloaded [using this link](Estimating%20Carbon%20Poster.pdf)
 
 Our contact information is below:
 
